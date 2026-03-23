@@ -1,3 +1,7 @@
 Esto es un nuevo fichero
 
 Escrito en local
+
+Modificación desde local 1
+Modificación desde local 2
+Modificación desde local 3
