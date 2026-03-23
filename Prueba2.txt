@@ -1,3 +1,7 @@
 Esto es un nuevo fichero
 
 Escrito en local
+
+Esto es un cambio desde github 1
+Esto es un cambio desde github 2
+Esto es un cambio desde github 3
